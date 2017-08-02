@@ -1,0 +1,14 @@
+{
+  "name": "blockchainjs",
+  "version": "1.0.0",
+  "description": "Blockchain concept",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mandeep Paik",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
